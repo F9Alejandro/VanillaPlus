@@ -8,7 +8,7 @@
 	{ "item": "lead", "amount": 110},
 	{ "item": "graphite", "amount": 70},
 	{ "item": "titanium", "amount": 40},
-	{ "item": "plastanium", "amount": 25},
+	{ "item": "plastanium", "amount": 25}
    ],
 "constructTime": 1800,
 "consumes": {
@@ -18,18 +18,18 @@
 	{ "item": "copper", "amount": 50},
 	{ "item": "silicon", "amount": 30},
 	{ "item": "titanium", "amount": 20},
-	{ "item": "silver", "amount": 40},
-    ],
-  }, 
+	{ "item": "silver", "amount": 40}
+    ]
+  }
 },
 "upgrades": [
   [
-  "p-43-bis"
+  "p-43-bis",
   "p-43-ter"
-  ],
+  ]
  
 ],
 
 "category": "units",
-"research": "tank-factory",
+"research": "tank-factory"
 }

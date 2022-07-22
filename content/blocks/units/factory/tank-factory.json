@@ -1,7 +1,7 @@
 {
  "type": "UnitFactory",
  "name": "Tank factory",
- "description": ""
+ "description": "",
  "health": 1000,
  "size": 3,
  "itemCapacity": 30,
@@ -9,10 +9,10 @@
 	{ "item": "silicon", "amount": 80},
 	{ "item": "lead", "amount": 100},
 	{ "item": "graphite", "amount": 60},
-	{ "item": "titanium", "amount": 35},
+	{ "item": "titanium", "amount": 35}
    ],
 	"consumes": {
-  "power": 2,
+  "power": 2
 },
 
 	"plans": [
@@ -21,11 +21,11 @@
     "requirements": [
 	{ "item": "copper", "amount": 30},
 	{ "item": "silicon", "amount": 25},
-	{ "item": "silver", "amount": 20},
+	{ "item": "silver", "amount": 20}
 		],
-	"time": 2700,
-		},
+	"time": 2700
+		}
 	],
 "research": "ground-factory",
-"category": "units",
+"category": "units"
 	}

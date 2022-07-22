@@ -6,19 +6,19 @@
   "size": 2,
   "requirements": [
     { "item": "copper", "amount": 250},
-	{ "item": "lead", "amount": 350},
-	{ "item": "graphite", "amount": 300},
-	{ "item": "silicon", "amount": 200},
-	{ "item": "metaglass", "amount": 250},
-	{ "item": "titanium", "amount": 300},
-	{ "item": "plastanium", "amount": 200},
+	  { "item": "lead", "amount": 350},
+	  { "item": "graphite", "amount": 300},
+	  { "item": "silicon", "amount": 200},
+	  { "item": "metaglass", "amount": 250},
+	  { "item": "titanium", "amount": 300},
+	  { "item": "plastanium", "amount": 200}
   ],
   "research": "thorium-drill",
   "hasPower": true,
   "hasItems": true,
   "craftTime": 225,
   "consumes": {
-    "power": 7.5,
+    "power": 7.5
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

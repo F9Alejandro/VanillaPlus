@@ -6,17 +6,17 @@
   "size": 2,
   "requirements": [
     { "item": "copper", "amount": 200},
-	{ "item": "lead", "amount": 300},
-	{ "item": "graphite", "amount": 200},
-	{ "item": "silicon", "amount": 150},
-	{ "item": "metaglass", "amount": 200},
+	  { "item": "lead", "amount": 300},
+	  { "item": "graphite", "amount": 200},
+	  { "item": "silicon", "amount": 150},
+	  { "item": "metaglass", "amount": 200}
   ],
   "research": "titanium-drill",
   "hasPower": true,
   "hasItems": true,
   "craftTime": 200,
   "consumes": {
-    "power": 8,
+    "power": 8
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

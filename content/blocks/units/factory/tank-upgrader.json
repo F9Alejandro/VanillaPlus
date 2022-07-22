@@ -9,7 +9,7 @@
 	{ "item": "graphite", "amount": 90},
 	{ "item": "titanium", "amount": 75},
 	{ "item": "plastanium", "amount": 60},
-	{ "item": "thorium", "amount": 50},
+	{ "item": "thorium", "amount": 50}
    ],
 "constructTime": 3600,
 "consumes": {
@@ -19,18 +19,18 @@
 	{ "item": "silicon", "amount": 75},
 	{ "item": "titanium", "amount": 50},
 	{ "item": "thorium", "amount": 40},
-	{ "item": "silver", "amount": 80},
-    ],
-  }, 
+	{ "item": "silver", "amount": 80}
+    ]
+  }
 },
 "upgrades": [
   [
-  "p-43-ter"
+  "p-43-ter",
   "p-44-pantera"
-  ],
+  ]
  
 ],
 
 "category": "units",
-"research": "tank-factory",
+"research": "tank-factory"
 }

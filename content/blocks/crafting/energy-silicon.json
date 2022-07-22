@@ -6,14 +6,14 @@
   "size": 2,
   "requirements": [
     { "item": "copper", "amount": 80},
-	{ "item": "lead", "amount": 60},
+	{ "item": "lead", "amount": 60}
   ],
   "research": "silicon-smelter",
   "hasPower": true,
   "hasItems": true,
   "craftTime": 15,
   "consumes": {
-    "power": 1,
+    "power": 1
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

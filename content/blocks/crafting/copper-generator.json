@@ -6,14 +6,14 @@
   "size": 2,
    "requirements": [
    { "item": "copper", "amount": 400},
-   { "item": "lead", "amount": 300},
+   { "item": "lead", "amount": 300}
    ],
   "research": "low-power-copper-generator",
   "hasPower": true,
   "hasItems": true,
   "craftTime": 20,
   "consumes": {
-    "power": 1.5,
+    "power": 1.5
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

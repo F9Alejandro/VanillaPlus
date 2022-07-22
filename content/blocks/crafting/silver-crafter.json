@@ -6,9 +6,9 @@
   "size": 2,
   "requirements": [
     { "item": "copper", "amount": 80},
-	{ "item": "lead", "amount": 60},
-	{ "item": "silicon", "amount": 50},
-	{ "item": "titanium", "amount": 30},        
+	  { "item": "lead", "amount": 60},
+	  { "item": "silicon", "amount": 50},
+	  { "item": "titanium", "amount": 30}       
   ],
   "research": "silicon-smelter",
   "hasPower": true,
@@ -16,13 +16,12 @@
   "craftTime": 40,
   "consumes": {
     "power": 1,
-	"items": {
-		"items": [
-	{ "item": "copper", "amount": 2},
-	{ "item": "silicon", "amount": 4},
-    ]
-  }
-
+	  "items": {
+		  "items": [
+	      { "item": "copper", "amount": 2},
+	      { "item": "silicon", "amount": 4}
+      ]
+    }
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

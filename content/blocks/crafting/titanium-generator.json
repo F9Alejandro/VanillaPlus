@@ -6,19 +6,19 @@
   "size": 2,
   "requirements": [
     { "item": "copper", "amount": 200},
-	{ "item": "lead", "amount": 300},
-	{ "item": "graphite", "amount": 150},
-	{ "item": "silicon", "amount": 100},
-	{ "item": "metaglass", "amount": 200},
-	{ "item": "titanium", "amount": 200},
-	{ "item": "plastanium", "amount": 100},
+	  { "item": "lead", "amount": 300},
+	  { "item": "graphite", "amount": 150},
+	  { "item": "silicon", "amount": 100},
+	  { "item": "metaglass", "amount": 200},
+	  { "item": "titanium", "amount": 200},
+	  { "item": "plastanium", "amount": 100}
   ],
   "research": "low-power-titanium-generator",
   "hasPower": true,
   "hasItems": true,
   "craftTime": 20,
   "consumes": {
-    "power": 10,
+    "power": 10
   },
   "updateEffect": "smeltsmoke",
   "category": "crafting",

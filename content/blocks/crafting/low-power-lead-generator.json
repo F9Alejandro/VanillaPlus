@@ -4,9 +4,9 @@
   "description": "Генерирует Свинец, требуется для пустых карт (без ресурсов)",
   "health": 750,
   "size": 2,
-   "requirements": [
-	{ "item": "copper", "amount": 100},
-   ],
+  "requirements": [
+	  { "item": "copper", "amount": 100}
+  ],
   "research": "mechanical-drill",
   "hasPower": false,
   "hasItems": true,
